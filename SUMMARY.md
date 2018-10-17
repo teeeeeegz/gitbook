@@ -1,9 +1,12 @@
 # Table of contents
 
-* [Initial page](README.md)
-* [Untitled](untitled.md)
+* [Initial page][1]
+* [Untitled][2]
 
 ## Mobile Development
 
-* [Untitled](mobile-development/untitled.md)
+* [Untitled][3]
 
+[1]:	README.md
+[2]:	untitled.md
+[3]:	mobile-development/untitled.md
